@@ -1,0 +1,18 @@
+[
+  {
+    "date": "2026-07-26",
+    "scope": "app",
+    "macrostructure": "Index-First 头版化 + Long Document（marginalia toc ≥72rem）",
+    "theme": "Newsprint",
+    "enrichment": "none",
+    "brief": "导航页头版化 + 正文排印精进 + quiz 试卷化 + 宽屏页边目录（design.md 修订）"
+  },
+  {
+    "date": "2026-07-25",
+    "scope": "app",
+    "macrostructure": "Long Document (index: Index-First)",
+    "theme": "Newsprint",
+    "enrichment": "none",
+    "brief": "Mattpocock Skills 学习工作区 · 全站视觉重设计（书卷气 editorial）"
+  }
+]
