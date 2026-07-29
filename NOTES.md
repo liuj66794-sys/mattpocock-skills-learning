@@ -32,6 +32,9 @@
   真实工作区冒烟。工作区约定 tests 零依赖，用 Node 内置 `node:test`。
 - **规格与票**：spec 落 `specs/NNNN-<slug>.md`；ticket 落 `.scratch/<feature-slug>/issues/NN-<slug>.md`；
   架构决策落 `docs/adr/NNNN-<slug>.md`（本工作区无 issue tracker，全部本地化）。
+- **版本管理**：git 仓库，远程 https://github.com/liuj66794-sys/mattpocock-skills-learning（公开）。
+  本机直连 github.com 的 git 端口不通，仓库级配置了 `http.proxy=http://127.0.0.1:7897`（本地代理），
+  推送前需确保代理在运行。
 
 ## 课程撰写约定（2026-07 与 /teach 对齐时确定）
 
